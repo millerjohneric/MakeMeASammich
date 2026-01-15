@@ -54,4 +54,4 @@ $Content
 }
 
 Create-DocusaurusFiles $SourceRoot $DocsDestination
-Write-Host "Docusaurus menu structure generated successfully!" -ForegroundColor Green
+Write-Host "Docusaurus recipes structure generated successfully!" -ForegroundColor Green
