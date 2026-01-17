@@ -1,0 +1,5 @@
+﻿label: 'drinks 🍹'
+position: 1 # Adjust this number to move it up or down in the sidebar
+link:
+  type: generated-index
+  description: 'Refreshing beverages for any occasion.'

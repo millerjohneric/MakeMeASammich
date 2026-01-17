@@ -39,7 +39,7 @@ const config: Config = {
         redirects: [
           {
             from: '/',
-            to: '/docs/category/foodmenu',
+            to: '/docs/foodmenu',
           },
         ],
       },
@@ -77,8 +77,8 @@ const config: Config = {
       items: [
         {
           // CHANGE THIS: Instead of type: 'docSidebar'
-          to: '/docs/recipes',
-          label: 'Recipes',
+          to: '/docs',
+          label: 'Food Menu',
           position: 'left',
         },
         {
@@ -95,8 +95,8 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Recipes',
-              to: '/docs/category/recipes',
+              label: 'Food Menu',
+              to: '/docs',
             },
           ],
         },

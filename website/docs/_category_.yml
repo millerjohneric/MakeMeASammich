@@ -1,0 +1,4 @@
+﻿label: 'Recipes 🍔'
+link:
+  type: generated-index
+  slug: recipes # This creates the /docs/category/recipes URL

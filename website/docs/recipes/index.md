@@ -1,6 +1,6 @@
 ---
 title: Our Recipes
-sidebar_label: Welcome
+sidebar_label: Our Recipes
 ---
 
 # Recipe Collection
