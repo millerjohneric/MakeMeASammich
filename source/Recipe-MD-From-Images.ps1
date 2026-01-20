@@ -1,4 +1,4 @@
-$TargetDir = "H:\MakeMeASammich\website\docs\recipes"
+$TargetDir = "H:\MakeMeASammich\website\docs\recipes\drinks\alcoholic-drinks"
 
 Write-Host "Starting Smart Cleanup in: $TargetDir" -ForegroundColor Cyan
 
